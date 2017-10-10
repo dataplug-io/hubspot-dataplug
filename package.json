@@ -1,0 +1,38 @@
+{
+  "name": "@dataplug/hubspot-dataplug",
+  "version": "0.1.0",
+  "description": "HubSpot data plug (by Dataplug.io)",
+  "main": "lib/index.js",
+  "bin": {
+    "source-hubspot": "bin/source-hubspot.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": "8.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dataplug-io/hubspot-dataplug.git"
+  },
+  "keywords": [
+    "hubspot",
+    "data",
+    "export",
+    "import"
+  ],
+  "author": "",
+  "license": "AGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/dataplug-io/hubspot-dataplug/issues"
+  },
+  "homepage": "https://github.com/dataplug-io/hubspot-dataplug#readme",
+  "dependencies": {
+    "@dataplug/dataplug": "^0.1.0"
+  },
+  "devDependencies": {
+    "mocha": "^4.0.1",
+    "standard": "^10.0.3"
+  }
+}
