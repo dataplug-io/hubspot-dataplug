@@ -1,6 +1,6 @@
 {
   "name": "@dataplug/hubspot-dataplug",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "HubSpot dataplug (by Dataplug.io)",
   "main": "lib/index.js",
   "bin": {
