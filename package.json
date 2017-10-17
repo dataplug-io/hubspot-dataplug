@@ -1,12 +1,13 @@
 {
   "name": "@dataplug/hubspot-dataplug",
   "version": "0.1.0",
-  "description": "HubSpot data plug (by Dataplug.io)",
+  "description": "HubSpot dataplug (by Dataplug.io)",
   "main": "lib/index.js",
   "bin": {
     "source-hubspot": "bin/source-hubspot.js"
   },
   "scripts": {
+    "jsdoc": "jsdoc --destination ./docs --recurse ./lib ./bin --verbose",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "engines": {
@@ -29,9 +30,12 @@
   },
   "homepage": "https://github.com/dataplug-io/hubspot-dataplug#readme",
   "dependencies": {
-    "@dataplug/dataplug": "^0.1.0"
+    "@dataplug/dataplug": "^0.2.0",
+    "@dataplug/dataplug-cli": "^0.2.0",
+    "bluebird": "^3.5.1"
   },
   "devDependencies": {
+    "jsdoc": "^3.5.5",
     "mocha": "^4.0.1",
     "standard": "^10.0.3"
   }

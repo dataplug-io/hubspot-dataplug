@@ -1,3 +1,4 @@
 #!/usr/bin/env node
 
-require('@dataplug/dataplug').cli.source(__dirname + '/../lib/collections').argv;
+require('@dataplug/dataplug-cli')(__dirname + '/../lib/collections')
+  .argv;

@@ -1,4 +1,4 @@
-# [HubSpot](https://www.hubspot.com) data plug by [Dataplug.io](https://dataplug.io)
+# [HubSpot](https://www.hubspot.com) dataplug by [Dataplug.io](https://dataplug.io)
 
 [![Build Status][travis-image]][travis-url]
 [![Coverage Status][coveralls-image]][coveralls-url]
