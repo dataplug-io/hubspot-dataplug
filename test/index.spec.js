@@ -3,12 +3,8 @@ const Source = require('../lib');
 
 chai.should();
 
-describe('dataplug-cli', () => {
+describe('hubspot-dataplug', () => {
   describe('#()', () => {
-    it('', () => {});
-  });
-
-  describe('#createOutput()', () => {
     it('', () => {});
   });
 });

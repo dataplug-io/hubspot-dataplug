@@ -4,7 +4,7 @@
   "description": "HubSpot dataplug (by Dataplug.io)",
   "main": "lib/index.js",
   "bin": {
-    "hubspot-dataplug": "bin/hubspot-dataplug.js"
+    "hubspot-dataplug": "bin/cli.js"
   },
   "scripts": {
     "jsdoc": "jsdoc --destination ./docs --recurse ./lib ./bin --verbose",
