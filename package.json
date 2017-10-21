@@ -33,8 +33,8 @@
   },
   "homepage": "https://github.com/dataplug-io/hubspot-dataplug#readme",
   "dependencies": {
-    "@dataplug/dataplug": "^0.4.2",
-    "@dataplug/dataplug-cli": "^0.6.0",
+    "@dataplug/dataplug": "^0.6.1",
+    "@dataplug/dataplug-cli": "^0.7.1",
     "bluebird": "^3.5.1"
   },
   "devDependencies": {
