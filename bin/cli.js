@@ -1,8 +1,7 @@
 #!/usr/bin/env node
 
-const cli = require('@dataplug/dataplug-cli')
+const path = require('path')
 
-let builder = cli.build()
-builder = builder.usingCollectionsFromDir(__dirname + '/../lib/collections')
-
-builder.process()
+require('@dataplug/dataplug-cli').build()
+  .usingCollectionsFromDir(path.join(__dirname, '../lib/collections'))
+  .process()
