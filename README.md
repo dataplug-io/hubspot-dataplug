@@ -1,9 +1,9 @@
 # [HubSpot](https://www.hubspot.com) dataplug by [Dataplug.io](https://dataplug.io)
 
-[![Build Status](https://travis-ci.org/dataplug-io/hubspot-dataplug.svg?branch=master)](https://travis-ci.org/dataplug-io/hubspot-dataplug)
-[![Coverage Status](https://coveralls.io/repos/github/dataplug-io/hubspot-dataplug/badge.svg?branch=master)](https://coveralls.io/github/dataplug-io/hubspot-dataplug?branch=master)
+[![Build Status](https://img.shields.io/travis/dataplug-io/hubspot-dataplug.svg)](https://travis-ci.org/dataplug-io/hubspot-dataplug)
+[![Coverage Status](https://img.shields.io/coveralls/github/dataplug-io/hubspot-dataplug.svg)](https://coveralls.io/github/dataplug-io/hubspot-dataplug?branch=master)
 [![npm version](https://badge.fury.io/js/%40dataplug%2Fhubspot-dataplug.svg)](https://badge.fury.io/js/%40dataplug%2Fhubspot-dataplug)
-[![Dependency Status](https://www.versioneye.com/user/projects/59e9fe3c15f0d71da6a7a7b9/badge.svg)](https://www.versioneye.com/user/projects/59e9fe3c15f0d71da6a7a7b9)
+[![Dependency Status](https://img.shields.io/librariesio/github/dataplug-io/hubspot-dataplug.svg)](https://github.com/dataplug-io/hubspot-dataplug)
 [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 [![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
 
@@ -13,11 +13,11 @@ A dataplug to work with data from [HubSpot](https://www.hubspot.com) using its [
 
 * [Owners](https://developers.hubspot.com/docs/methods/owners/owners_overview), as source
 * [Contacts](https://developers.hubspot.com/docs/methods/contacts/contacts-overview), as source
+* [Deals](https://developers.hubspot.com/docs/methods/deals/deals_overview)
 
 ## TODO for next iteration
 
 * [Companies](https://developers.hubspot.com/docs/methods/companies/companies-overview)
-* [Deals](https://developers.hubspot.com/docs/methods/deals/deals_overview)
 
 ## TODO (backlog)
 
