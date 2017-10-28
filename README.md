@@ -13,11 +13,10 @@ A dataplug to work with data from [HubSpot](https://www.hubspot.com) using its [
 
 * [Owners](https://developers.hubspot.com/docs/methods/owners/owners_overview), as source
 * [Contacts](https://developers.hubspot.com/docs/methods/contacts/contacts-overview), as source
-* [Deals](https://developers.hubspot.com/docs/methods/deals/deals_overview)
+* [Deals](https://developers.hubspot.com/docs/methods/deals/deals_overview), as source
+* [Companies](https://developers.hubspot.com/docs/methods/companies/companies-overview), as source
 
 ## TODO for next iteration
-
-* [Companies](https://developers.hubspot.com/docs/methods/companies/companies-overview)
 
 ## TODO (backlog)
 
