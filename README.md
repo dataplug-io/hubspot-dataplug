@@ -3,7 +3,7 @@
 [![Build Status](https://img.shields.io/travis/dataplug-io/hubspot-dataplug.svg)](https://travis-ci.org/dataplug-io/hubspot-dataplug)
 [![Coverage Status](https://img.shields.io/coveralls/github/dataplug-io/hubspot-dataplug.svg)](https://coveralls.io/github/dataplug-io/hubspot-dataplug?branch=master)
 [![npm version](https://badge.fury.io/js/%40dataplug%2Fhubspot-dataplug.svg)](https://badge.fury.io/js/%40dataplug%2Fhubspot-dataplug)
-[![Dependency Status](https://img.shields.io/librariesio/github/dataplug-io/hubspot-dataplug.svg)](https://github.com/dataplug-io/hubspot-dataplug)
+[![Dependency Status](https://img.shields.io/librariesio/github/dataplug-io/hubspot-dataplug.svg)](https://libraries.io/github/dataplug-io/hubspot-dataplug)
 [![Maintainability](https://api.codeclimate.com/v1/badges/4774ae94fcd408b1407e/maintainability)](https://codeclimate.com/github/dataplug-io/hubspot-dataplug/maintainability)
 [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 [![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
