@@ -7,17 +7,17 @@ const hubspotDataplug = require('../lib')
 describe('hubspot-dataplug', () => {
   dataplugTestsuite
     .forCollection('companies', hubspotDataplug.companies)
-    .use()
+    .execute()
 
   dataplugTestsuite
     .forCollection('contacts', hubspotDataplug.contacts)
-    .use()
+    .execute()
 
   dataplugTestsuite
     .forCollection('deals', hubspotDataplug.deals)
-    .use()
+    .execute()
 
   dataplugTestsuite
     .forCollection('owners', hubspotDataplug.owners)
-    .use()
+    .execute()
 })
