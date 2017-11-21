@@ -35,16 +35,16 @@
   },
   "homepage": "https://github.com/dataplug-io/hubspot-dataplug#readme",
   "dependencies": {
-    "@dataplug/dataplug": "^0.43.0",
-    "@dataplug/dataplug-cli": "^0.54.0",
-    "@dataplug/dataplug-http": "^0.13.0",
+    "@dataplug/dataplug": "^0.46.0",
+    "@dataplug/dataplug-cli": "^0.55.0",
+    "@dataplug/dataplug-http": "^0.14.0",
     "@dataplug/dataplug-json": "^0.11.0",
     "bluebird": "^3.5.1",
     "lodash": "^4.17.4",
     "moment": "^2.19.2"
   },
   "devDependencies": {
-    "@dataplug/dataplug-testsuite": "^0.22.0",
+    "@dataplug/dataplug-testsuite": "^0.23.0",
     "chai": "^4.1.2",
     "coveralls": "^3.0.0",
     "jsdoc": "^3.5.5",
